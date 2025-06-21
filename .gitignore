@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# PDFs
+*.pdf
+pdf_downloads/*
+
+# SQLite
+*.db
+
 # Distribution / packaging
 .Python
 build/
